@@ -1,0 +1,25 @@
+body {
+    background-color: #FFD07F;
+}
+
+.first-div {
+    text-align: center;
+}
+
+.ul-one{
+    text-align: center;
+}
+
+h1,h2 {
+    color: #E26A2C
+}
+
+h3 {
+    color: #FF8243;
+}
+
+ol {
+    list-style-position: inside;
+    text-align: center;
+    color: #FF8243;
+}
